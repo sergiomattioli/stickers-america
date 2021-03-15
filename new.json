@@ -2,7 +2,7 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.america",
    "ios_app_store_link":"",
    "sticker_packs":[
-            {
+      {
          "identifier":"ligamx2021f11",
          "name":"vs Chivas",
          "publisher":"Ant Space",
@@ -125,6 +125,12 @@
             },
             {
                "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
                "emojis":[
                   
                ]
